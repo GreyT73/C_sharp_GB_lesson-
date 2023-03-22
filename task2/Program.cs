@@ -17,7 +17,6 @@ Console.WriteLine("+");
 int x = xa, y = xa;
 
 int count = 0;
-
 while (count < 12222)
 {
     int what = new Random().Next(0, 3);
